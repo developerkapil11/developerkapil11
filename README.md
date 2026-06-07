@@ -80,3 +80,13 @@ A food delivery application UI inspired by Swiggy.
 * Email: kpldeveloper11@gmail.com
 
 ⭐ Always learning, always building, and always improving.
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=developerkapil11&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=developerkapil11&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=developerkapil11&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=developerkapil11&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
