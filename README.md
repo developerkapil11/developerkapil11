@@ -77,6 +77,6 @@ A food delivery application UI inspired by Swiggy.
 ## 📫 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/kapil-hans-9b121818/
-* Email: mailto:kpldeveloper11@gmail.com
+* Email: kpldeveloper11@gmail.com
 
 ⭐ Always learning, always building, and always improving.
