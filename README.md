@@ -42,17 +42,13 @@ Software Engineer with 8+ years of experience in building scalable web applicati
 
 ## 📂 Featured Projects
 
-### 🎬 Netflix Clone
+### 🎬 React JS Projects
 
-A responsive Netflix-inspired UI built using React.js.
+https://github.com/developerkapil11/react-projects
 
-### 📺 YouTube Clone
+### 📺 Python For AI Projects
 
-A modern YouTube clone with video browsing features.
-
-### 🍔 Swiggy Clone
-
-A food delivery application UI inspired by Swiggy.
+https://github.com/developerkapil11/python-projects
 
 ## 🎯 2026 Goals
 
