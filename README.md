@@ -42,13 +42,23 @@ Software Engineer with 8+ years of experience in building scalable web applicati
 
 ## 📂 Featured Projects
 
-### 🎬 React JS Projects
+### ⚛️ React JS Projects
 
-https://github.com/developerkapil11/react-projects
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+</p>
 
-### 📺 Python For AI Projects
+🔗 https://github.com/developerkapil11/react-projects
 
-https://github.com/developerkapil11/python-projects
+---
+
+### 🐍 Python For AI Projects
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+🔗 https://github.com/developerkapil11/python-projects
 
 ## 🎯 2026 Goals
 
