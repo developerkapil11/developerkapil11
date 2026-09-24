@@ -4,7 +4,7 @@
 
 Software Engineer with 8+ years of experience in building scalable web applications and modern user interfaces.
 
-* 💻 4+ years of experience in React.js
+* 💻 6+ years of experience in React.js
 * ⚙️ Experience with JavaScript, Node.js, PHP, and REST APIs
 * 🏗️ Passionate about writing clean, maintainable, and scalable code
 * 📚 Currently learning Python, AI/ML, Data Engineering, and DevOps
